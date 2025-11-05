@@ -133,8 +133,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Cricket data providers
 - Open-source community
 - Contributors and users
-
-## Contact 📧
-
-Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/cricket-predictor](https://github.com/yourusername/cricket-predictor)
