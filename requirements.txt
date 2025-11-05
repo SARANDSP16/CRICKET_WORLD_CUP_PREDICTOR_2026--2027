@@ -1,0 +1,68 @@
+# Cricket World Cup Predictor - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core Data Science
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipykernel>=6.25.0
+ipywidgets>=8.1.0
+notebook>=7.0.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.17.0
+kaleido>=0.2.1
+
+# API & Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+aiohttp>=3.9.0
+
+# Data Processing
+pytz>=2023.3
+python-dateutil>=2.8.2
+openpyxl>=3.1.0
+xlrd>=2.0.1
+
+# Database
+sqlite3-python>=1.0.0
+sqlalchemy>=2.0.0
+
+# Power BI Integration
+pandas-powerbi>=0.1.0
+pyodbc>=4.0.39
+msal>=1.24.0
+
+# Machine Learning Utilities
+joblib>=1.3.0
+imbalanced-learn>=0.11.0
+
+# Progress Bars & UI
+tqdm>=4.66.0
+rich>=13.6.0
+
+# Configuration
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
+
+# Testing & Quality
+pytest>=7.4.0
+black>=23.9.0
+flake8>=6.1.0
+
+# System Compatibility Check
+psutil>=5.9.5
+platform>=1.0.8
+
+# Cricket Specific APIs (Free)
+# cricbuzz-scraper (custom - included in scripts)
+# cricsheet-parser (custom - included in scripts)
