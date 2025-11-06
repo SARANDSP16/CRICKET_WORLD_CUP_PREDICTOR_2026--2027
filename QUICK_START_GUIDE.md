@@ -56,8 +56,8 @@ jupyter notebook
 - Sets up SQLite database
 
 ### 2️⃣ Data Collection (Section 2)
-- Connects to **CricketData.org API** (your key: `c1dde435-6493-44bb-bffc-443acf030eb0`)
-- Connects to **Cricbuzz RapidAPI** (your key: `20bfa73fd3msh835e15064a3f2d2p19c716jsn57009bf1a217`)
+- Connects to **CricketData.org API** (your key: ``)
+- Connects to **Cricbuzz RapidAPI** (your key: ``)
 - Scrapes **ESPN Cricinfo** for rankings
 - Tests all API connections
 
